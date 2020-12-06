@@ -20,4 +20,10 @@ try:
 
 except:
     print("input yang anda masukkan salah")
+
+
+
+
+
+
     
